@@ -492,12 +492,6 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABC_Kids_Play.png/revision/latest?cb=20181007103810" group-title="KIDS",ABC Kids Play Music
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
-====EVENT====
-
-
-
-
-
 ====SPORT LUAR====
 #EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBATV.id" group-title="SPORTS 2" tvg-logo="https://cdn.macan.tv/img/nbatv.png", NBA TV
 https://delivery.tvprem.net/stream/nbatv/playlist.m3u8?token=xfbe&v=20200807
