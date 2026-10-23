@@ -285,22 +285,22 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_3wiy77wh
-https://maxstream.malingtv.workers.dev/stream/0_3wiy77wh.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_3wiy77wh
+https://maxstreamtv.icanplay.my.id/stream/0_3wiy77wh.mpd
 
 #EXTINF:-1 tvg-id="0_enfa8a2h" tvg-name="Da Vinci Learning" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_enfa8a2h/banner_xxxhdpi.webp" group-title="KIDS",Da Vinci Learning
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_enfa8a2h
-https://maxstream.malingtv.workers.dev/stream/0_enfa8a2h.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_enfa8a2h
+https://maxstreamtv.icanplay.my.id/stream/0_enfa8a2h.mpd
 
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png",MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_1qolvnju
-https://maxstream.malingtv.workers.dev/stream/0_1qolvnju.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_1qolvnju
+https://maxstreamtv.icanplay.my.id/stream/0_1qolvnju.mpd
 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png",MY KIDZ 2 
@@ -347,15 +347,15 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_2sdk0nou
-https://maxstream.malingtv.workers.dev/stream/0_2sdk0nou.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_2sdk0nou
+https://maxstreamtv.icanplay.my.id/stream/0_2sdk0nou.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",Animax 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_86sal99e
-https://maxstream.malingtv.workers.dev/stream/0_86sal99e.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_86sal99e
+https://maxstreamtv.icanplay.my.id/stream/0_86sal99e.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aniplus.png",Aniplus 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -380,15 +380,15 @@ https://wurljansonmedia.global.transmit.live/hls/69029561e0b3f0f215eef867/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_3x6829f7
-https://maxstream.malingtv.workers.dev/stream/0_3x6829f7.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_3x6829f7
+https://maxstreamtv.icanplay.my.id/stream/0_3x6829f7.mpd
 
 #EXTINF:-1 tvg-id="0_1lrqq4s0" tvg-name="Cartoon Network" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1lrqq4s0/banner_xxxhdpi.webp" group-title="KIDS",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_1lrqq4s0
-https://maxstream.malingtv.workers.dev/stream/0_1lrqq4s0.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_1lrqq4s0
+https://maxstreamtv.icanplay.my.id/stream/0_1lrqq4s0.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -428,15 +428,15 @@ https://vidio123.mikrofast.web.id/vidio/8237/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_0pf1skv6
-https://maxstream.malingtv.workers.dev/stream/0_0pf1skv6.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_0pf1skv6
+https://maxstreamtv.icanplay.my.id/stream/0_0pf1skv6.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nickjr.png",Nick Jr. 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_pz6xuyqn
-https://maxstream.malingtv.workers.dev/stream/0_pz6xuyqn.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_pz6xuyqn
+https://maxstreamtv.icanplay.my.id/stream/0_pz6xuyqn.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/626/626-LOGO-m.png",Zoomoo 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1384,8 +1384,8 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_chy9zuqn
-https://maxstream.malingtv.workers.dev/stream/0_chy9zuqn.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_chy9zuqn
+https://maxstreamtv.icanplay.my.id/stream/0_chy9zuqn.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Persiana Fight" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/PersianaFight.png" group-title="SPORTS",Persiana Fight
 #EXTVLCOPT:http-user-agent=android-R+
@@ -1579,22 +1579,22 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_wd3w16vp
-https://maxstream.malingtv.workers.dev/stream/0_wd3w16vp.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_wd3w16vp
+https://maxstreamtv.icanplay.my.id/stream/0_wd3w16vp.mpd
 
 #EXTINF:-1 tvg-id="0_3n2pn24p" tvg-name="ANTARA TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3n2pn24p/banner_xxxhdpi.webp" group-title="INDONESIA",ANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_3n2pn24p
-https://maxstream.malingtv.workers.dev/stream/0_3n2pn24p.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_3n2pn24p
+https://maxstreamtv.icanplay.my.id/stream/0_3n2pn24p.mpd
 
 #EXTINF:-1 tvg-id="0_oyquzepi" tvg-name="Animal Planet" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_oyquzepi/banner_xxxhdpi.webp" group-title="KNOWLEDGE & LIFESTYLE",Animal Planet 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_oyquzepi
-https://maxstream.malingtv.workers.dev/stream/0_oyquzepi.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_oyquzepi
+https://maxstreamtv.icanplay.my.id/stream/0_oyquzepi.mpd
 
 ====ENTERTAIMENT====
 
@@ -1603,78 +1603,79 @@ https://maxstream.malingtv.workers.dev/stream/0_oyquzepi.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_3q4th1ok
-https://maxstream.malingtv.workers.dev/stream/0_3q4th1ok.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_3q4th1ok
+https://maxstreamtv.icanplay.my.id/stream/0_3q4th1ok.mpd
+
 
 #EXTINF:-1 tvg-id="0_nhmzmt8u" tvg-name="Discovery Asia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nhmzmt8u/banner_xxxhdpi.webp" group-title="KNOWLEDGE & LIFESTYLE",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_nhmzmt8u
-https://maxstream.malingtv.workers.dev/stream/0_nhmzmt8u.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_nhmzmt8u
+https://maxstreamtv.icanplay.my.id/stream/0_nhmzmt8u.mpd
 
 #EXTINF:-1 tvg-id="0_brgzui5c" tvg-name="Fashion TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_brgzui5c/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_brgzui5c
-https://maxstream.malingtv.workers.dev/stream/0_brgzui5c.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_brgzui5c
+https://maxstreamtv.icanplay.my.id/stream/0_brgzui5c.mpd
 
 #EXTINF:-1 tvg-id="0_cms3x58k" tvg-name="The Indonesia Channel" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_cms3x58k/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",The Indonesia Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_cms3x58k
-https://maxstream.malingtv.workers.dev/stream/0_cms3x58k.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_cms3x58k
+https://maxstreamtv.icanplay.my.id/stream/0_cms3x58k.mpd
 
 #EXTINF:-1 tvg-id="0_57ujtr57" tvg-name="TLC" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_57ujtr57/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_57ujtr57
-https://maxstream.malingtv.workers.dev/stream/0_57ujtr57.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_57ujtr57
+https://maxstreamtv.icanplay.my.id/stream/0_57ujtr57.mpd
 
 #EXTINF:-1 tvg-id="0_ixad1kw8" tvg-name="MAXStream TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ixad1kw8/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXStream TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_ixad1kw8
-https://maxstream.malingtv.workers.dev/stream/0_ixad1kw8.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_ixad1kw8
+https://maxstreamtv.icanplay.my.id/stream/0_ixad1kw8.mpd
 
 #EXTINF:-1 tvg-id="0_psqdb637" tvg-name="MAXReels" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXReels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_psqdb637
-https://maxstream.malingtv.workers.dev/stream/0_psqdb637.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_psqdb637
+https://maxstreamtv.icanplay.my.id/stream/0_psqdb637.mpd
 
 #EXTINF:-1 tvg-id="0_z7t4c568" tvg-name="MAXEats" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXEats
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_z7t4c568
-https://maxstream.malingtv.workers.dev/stream/0_z7t4c568.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_z7t4c568
+https://maxstreamtv.icanplay.my.id/stream/0_z7t4c568.mpd
 
 #EXTINF:-1 tvg-id="0_1u20u1ok" tvg-name="MAXSports" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_1u20u1ok
-https://maxstream.malingtv.workers.dev/stream/0_1u20u1ok.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_1u20u1ok
+https://maxstreamtv.icanplay.my.id/stream/0_1u20u1ok.mpd
 
 #EXTINF:-1 tvg-id="0_ynh2anw4" tvg-name="MAXKids" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_ynh2anw4
-https://maxstream.malingtv.workers.dev/stream/0_ynh2anw4.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_ynh2anw4
+https://maxstreamtv.icanplay.my.id/stream/0_ynh2anw4.mpd
 
 #EXTINF:-1 tvg-id="0_720wy4x6" tvg-name="MAXStreak" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXStreak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_720wy4x6
-https://maxstream.malingtv.workers.dev/stream/0_720wy4x6.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_720wy4x6
+https://maxstreamtv.icanplay.my.id/stream/0_720wy4x6.mpd
 
 
 
@@ -1683,8 +1684,8 @@ https://maxstream.malingtv.workers.dev/stream/0_720wy4x6.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_qe3k01sq
-https://maxstream.malingtv.workers.dev/stream/0_qe3k01sq.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_qe3k01sq
+https://maxstreamtv.icanplay.my.id/stream/0_qe3k01sq.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="MUSIC",MUSICA
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -1845,22 +1846,22 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_s5oc8paq
-https://maxstream.malingtv.workers.dev/stream/0_s5oc8paq.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_s5oc8paq
+https://maxstreamtv.icanplay.my.id/stream/0_s5oc8paq.mpd
 
 #EXTINF:-1 tvg-id="0_urq0w0mp" tvg-name="Bioskop Indonesia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_urq0w0mp/banner_xxxhdpi.webp" group-title="MOVIES",Bioskop Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_urq0w0mp
-https://maxstream.malingtv.workers.dev/stream/0_urq0w0mp.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_urq0w0mp
+https://maxstreamtv.icanplay.my.id/stream/0_urq0w0mp.mpd
 
 #EXTINF:-1 tvg-id="0_meap4fi2" tvg-name="Warner TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_meap4fi2/banner_xxxhdpi.webp" group-title="MOVIES",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_meap4fi2
-https://maxstream.malingtv.workers.dev/stream/0_meap4fi2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_meap4fi2
+https://maxstreamtv.icanplay.my.id/stream/0_meap4fi2.mpd
 
 
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260708_224622.jpg" group-title="MOVIES" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", SONY PIX
@@ -1871,24 +1872,24 @@ http://tv.cloudcdn.me/live.ts?channelId=189&uid=12643&deviceMac=00:1A:79:03:13:D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_1gshn4os
-https://maxstream.malingtv.workers.dev/stream/0_1gshn4os.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_1gshn4os
+https://maxstreamtv.icanplay.my.id/stream/0_1gshn4os.mpd
 
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="MOVIES",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_a98kaoda
-https://maxstream.malingtv.workers.dev/stream/0_a98kaoda.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_a98kaoda
+https://maxstreamtv.icanplay.my.id/stream/0_a98kaoda.mpd
 
 
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7bgp-3NYBwNCd0IS8N7Whxt0EokHXdo43IOecT4xohw&s=10",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_xgdr0qbd
-https://maxstream.malingtv.workers.dev/stream/0_xgdr0qbd.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_xgdr0qbd
+https://maxstreamtv.icanplay.my.id/stream/0_xgdr0qbd.mpd
 
 
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7bgp-3NYBwNCd0IS8N7Whxt0EokHXdo43IOecT4xohw&s=10",HBO 2
@@ -1909,24 +1910,24 @@ http://141.94.193.53/HBO_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_k7eh4erk
-https://maxstream.malingtv.workers.dev/stream/0_k7eh4erk.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_k7eh4erk
+https://maxstreamtv.icanplay.my.id/stream/0_k7eh4erk.mpd
 
 
 #EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_qqui53si
-https://maxstream.malingtv.workers.dev/stream/0_qqui53si.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_qqui53si
+https://maxstreamtv.icanplay.my.id/stream/0_qqui53si.mpd
 
 
 #EXTINF:-1 tvg-id="HBO Signature" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_s6bo567h
-https://maxstream.malingtv.workers.dev/stream/0_s6bo567h.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_s6bo567h
+https://maxstreamtv.icanplay.my.id/stream/0_s6bo567h.mpd
 
 
 
@@ -1934,8 +1935,8 @@ https://maxstream.malingtv.workers.dev/stream/0_s6bo567h.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_blvd5qf0
-https://maxstream.malingtv.workers.dev/stream/0_blvd5qf0.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_blvd5qf0
+https://maxstreamtv.icanplay.my.id/stream/0_blvd5qf0.mpd
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="MOVIES" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", STAR MOVIES
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=12643&deviceMac=00:1A:79:03:13:DE
@@ -1953,22 +1954,22 @@ http://69.30.245.50/live/chcjt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_wiy2wbmv
-https://maxstream.malingtv.workers.dev/stream/0_wiy2wbmv.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_wiy2wbmv
+https://maxstreamtv.icanplay.my.id/stream/0_wiy2wbmv.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="tvN Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png" group-title="MOVIES",tvN Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_2ayrv6w3
-https://maxstream.malingtv.workers.dev/stream/0_2ayrv6w3.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_2ayrv6w3
+https://maxstreamtv.icanplay.my.id/stream/0_2ayrv6w3.mpd
 
 #EXTINF:-1 tvg-id="0_r16b30de" tvg-name="tvN" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_r16b30de/banner_xxxhdpi.webp" group-title="MOVIES",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_r16b30de
-https://maxstream.malingtv.workers.dev/stream/0_r16b30de.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_r16b30de
+https://maxstreamtv.icanplay.my.id/stream/0_r16b30de.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQl6HA0DK8KBC9Yp9yqHPn2XPpW-NSOvretdjLEsE2zXBT7-KpYmZBpOkJ&s=10",STAR MOVIES HD AIRTEL
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:18:18:3D&stream=373304&extension=ts&play_token=ciHoqkD84h
@@ -1980,15 +1981,15 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:18:18:3D&stream=373320&e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_hd1c30bo
-https://maxstream.malingtv.workers.dev/stream/0_hd1c30bo.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_hd1c30bo
+https://maxstreamtv.icanplay.my.id/stream/0_hd1c30bo.mpd
 
 #EXTINF:-1 tvg-id="0_zrs82szk" tvg-name="HITS MOVIES" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_zrs82szk/banner_xxxhdpi.webp" group-title="MOVIES",HITS MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_zrs82szk
-https://maxstream.malingtv.workers.dev/stream/0_zrs82szk.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_zrs82szk
+https://maxstreamtv.icanplay.my.id/stream/0_zrs82szk.mpd
 
 
 
@@ -1996,15 +1997,15 @@ https://maxstream.malingtv.workers.dev/stream/0_zrs82szk.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_zg4mwqv7
-https://maxstream.malingtv.workers.dev/stream/0_zg4mwqv7.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_zg4mwqv7
+https://maxstreamtv.icanplay.my.id/stream/0_zg4mwqv7.mpd
 
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://tapdmv.com/content/images/2024/10/310477891_5983598688327296_7491648384199015124_n.jpg" group-title="MOVIES", STUDIO UNIVERSAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_jhb1o6kj
-https://maxstream.malingtv.workers.dev/stream/0_jhb1o6kj.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_jhb1o6kj
+https://maxstreamtv.icanplay.my.id/stream/0_jhb1o6kj.mpd
 
 
 
@@ -2012,15 +2013,15 @@ https://maxstream.malingtv.workers.dev/stream/0_jhb1o6kj.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_kk9nyx3y
-https://maxstream.malingtv.workers.dev/stream/0_kk9nyx3y.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_kk9nyx3y
+https://maxstreamtv.icanplay.my.id/stream/0_kk9nyx3y.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Galaxy.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_anqaquwl
-https://maxstream.malingtv.workers.dev/stream/0_anqaquwl.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_anqaquwl
+https://maxstreamtv.icanplay.my.id/stream/0_anqaquwl.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="GalaxyPremium.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy Premium 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -2041,39 +2042,39 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_jqlzd1wf
-https://maxstream.malingtv.workers.dev/stream/0_jqlzd1wf.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_jqlzd1wf
+https://maxstreamtv.icanplay.my.id/stream/0_jqlzd1wf.mpd
 
 
 #EXTINF:-1 tvg-id="CINEMAX" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_7vx2webw
-https://maxstream.malingtv.workers.dev/stream/0_7vx2webw.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_7vx2webw
+https://maxstreamtv.icanplay.my.id/stream/0_7vx2webw.mpd
 
 
 #EXTINF:-1 tvg-id="0_s7gzj2we" tvg-name="CinemaWorld" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_s7gzj2we/banner_xxxhdpi.webp" group-title="MOVIES",CinemaWorld
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_s7gzj2we
-https://maxstream.malingtv.workers.dev/stream/0_s7gzj2we.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_s7gzj2we
+https://maxstreamtv.icanplay.my.id/stream/0_s7gzj2we.mpd
 
 #EXTINF:-1 tvg-id="0_yvb8lpzs" tvg-name="Chinese Drama" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_yvb8lpzs/banner_xxxhdpi.webp" group-title="MOVIES",Chinese Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_yvb8lpzs
-https://maxstream.malingtv.workers.dev/stream/0_yvb8lpzs.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_yvb8lpzs
+https://maxstreamtv.icanplay.my.id/stream/0_yvb8lpzs.mpd
 
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" group-title="MOVIES",Celestial Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_vq7m2eeg
-https://maxstream.malingtv.workers.dev/stream/0_vq7m2eeg.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_vq7m2eeg
+https://maxstreamtv.icanplay.my.id/stream/0_vq7m2eeg.mpd
 
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title="MOVIES",Celestial Classic Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -2949,15 +2950,15 @@ https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_moy42tni
-https://maxstream.malingtv.workers.dev/stream/0_moy42tni.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_moy42tni
+https://maxstreamtv.icanplay.my.id/stream/0_moy42tni.mpd
 
 #EXTINF:-1 tvg-id="0_b65cebi2" tvg-name="Lifetime" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_b65cebi2/banner_xxxhdpi.webp" group-title="KNOWLEDGE & LIFESTYLE",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_b65cebi2
-https://maxstream.malingtv.workers.dev/stream/0_b65cebi2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_b65cebi2
+https://maxstreamtv.icanplay.my.id/stream/0_b65cebi2.mpd
 
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -2986,15 +2987,15 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_k9r5lq30
-https://maxstream.malingtv.workers.dev/stream/0_k9r5lq30.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_k9r5lq30
+https://maxstreamtv.icanplay.my.id/stream/0_k9r5lq30.mpd
 
 #EXTINF:-1 tvg-id="0_7gka297f" tvg-name="Crime Investigation" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_7gka297f/banner_xxxhdpi.webp" group-title="KNOWLEDGE & LIFESTYLE",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_7gka297f
-https://maxstream.malingtv.workers.dev/stream/0_7gka297f.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_7gka297f
+https://maxstreamtv.icanplay.my.id/stream/0_7gka297f.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3007,15 +3008,15 @@ https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_efpv3846
-https://maxstream.malingtv.workers.dev/stream/0_efpv3846.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_efpv3846
+https://maxstreamtv.icanplay.my.id/stream/0_efpv3846.mpd
 
 #EXTINF:-1 tvg-id="0_nhmzmt8u" tvg-name="Discovery Asia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nhmzmt8u/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.malingtv.workers.dev/drm?id=0_nhmzmt8u
-https://maxstream.malingtv.workers.dev/stream/0_nhmzmt8u.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_nhmzmt8u
+https://maxstreamtv.icanplay.my.id/stream/0_nhmzmt8u.mpd
 
 
 
