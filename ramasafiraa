@@ -355,7 +355,7 @@ https://maxstreamtv.icanplay.my.id/stream/0_enfa8a2h.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_1qolvnju
 https://maxstreamtv.icanplay.my.id/stream/0_1qolvnju.mpd
 
-#EXTINF:-1 xui-id="758744" tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://iili.io/Cds2Zxf.png" group-title="KIDS",Tom & Jerry
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://iili.io/Cds2Zxf.png" group-title="KIDS",Tom & Jerry
 http://pira.diamonds:80/play/OG0HGQlp5eMcXY5hodyppmUx1TRYzulW_E7IhrSJdr4WonlMdl_jlSDVO0q_FIv7Rs8eID-J8z9lbIyIjNPLWQ
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png",MY KIDZ 2 
