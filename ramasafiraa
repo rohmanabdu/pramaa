@@ -326,20 +326,19 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="0_rkv5gee2" tvg-name="JAK TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_rkv5gee2/banner_xxxhdpi.webp" group-title="INDONESIA",JAK TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_rkv5gee2
-https://maxstreamtv.icanplay.my.id/stream/0_rkv5gee2.mpd
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/SmFrIHR2IENoYW5uZWw/manifest.mpd
 
 ========KIDS========
 
 #EXTINF:-1 tvg-id="0_3wiy77wh" tvg-name="Dunia Anak" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3wiy77wh/banner_xxxhdpi.webp" group-title="KIDS",Dunia Anak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.icanplay.my.id/drm?id=0_3wiy77wh
-https://maxstreamtv.icanplay.my.id/stream/0_3wiy77wh.mpd
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/RHVuaWEgQW5haw/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="0_enfa8a2h" tvg-name="Da Vinci Learning" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_enfa8a2h/banner_xxxhdpi.webp" group-title="KIDS",Da Vinci Learning
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1653,6 +1652,12 @@ https://maxstreamtv.icanplay.my.id/stream/0_oyquzepi.mpd
 
 ====ENTERTAIMENT====
 
+#EXTINF:-1 tvg-id="" tvg-name="!nsert" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdc51294b4f8e/ee3e2388b7ec4fbcacc9b4b5a8d46009.png" group-title="ENTERTAIMENT",!nsert
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/IW5zZXJ0/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="0_3q4th1ok" tvg-name="afn" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3q4th1ok/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",afn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1898,30 +1903,29 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 =====FILM=====
 
 #EXTINF:-1 tvg-id="0_s5oc8paq" tvg-name="Dunia Lain" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_s5oc8paq/banner_xxxhdpi.webp" group-title="MOVIES",Dunia Lain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/RHVuaWEgTGFpbg/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="0_s5oc8paq" tvg-name="Dunia Lain" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_s5oc8paq/banner_xxxhdpi.webp" group-title="MOVIES",SPESIAL Dunia Lain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/bGl2ZV9ldmVudF9jaGFubmVsMQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="0_urq0w0mp" tvg-name="Bioskop Indonesia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_urq0w0mp/banner_xxxhdpi.webp" group-title="MOVIES",Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
 
 #EXTINF:-1 tvg-id="0_meap4fi2" tvg-name="Warner TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_meap4fi2/banner_xxxhdpi.webp" group-title="MOVIES",Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/V2FybmVyIFRW/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260708_224622.jpg" group-title="MOVIES" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", SONY PIX
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=12643&deviceMac=00:1A:79:03:13:DE
