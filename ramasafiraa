@@ -2519,12 +2519,24 @@ https://cuwf8jayq1.tenbytecdn.com/live/tv1/playlist.m3u8?md5=G-4cSa-H6862aWGy5h0
 https://cuwf8jayq1.tenbytecdn.com/live/tv2/playlist.m3u8?md5=A6xt4QGoFw-kZy-yBt6HfQ&expires=1791658297
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA",TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+http://iptv12k.com:35461/m260807962950028/111111/13645
 
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOLNL2Q2P9Ri5UIE-uEmh2-mnGac34W7a12A&s" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="MALAYSIA",TV 3
+
+#EXTINF:-1 tvg-id="" tvg-name="SG OKEY my2" tvg-logo="https://rtm.glueapi.io/v3/content/3/image/960x540/images.title" group-title="MALAYSIA",SG OKEY my2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+http://iptv12k.com:35461/m260807923420398/111111/13616
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MALAYSIA",Astro Awani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png", SUKAN RTM
-https://shorter.me/SUKAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mana2.my/channel/sukan-rtm
+https://0pnspbp7iq.tenbytecdn.com/live/sukanrtm/playlist.m3u8?md5=d37IcGPjis7vNQ_rIuF7yA&expires=1791181673
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://i.imgur.com/EpQCkcy.png", MYSPORTS
 https://cuwf8jayq1.tenbytecdn.com/live/mysport/abr/mysport_720p/chunks.m3u8?md5=bdP8cbWMDLGkyqjwqUJ6KQ&expires=1791228591
