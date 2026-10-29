@@ -499,16 +499,11 @@ https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dreamworks.png",Dreamworks 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=67&type=drm&token=KITKATTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd 
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_h4cdmhi1&exp=1793215398&sign=323396272a29022a4bd0b5285ee854b1885bd3c8c1d697736cd622ae0a85144d
+https://maxstreamtv-token.ambontv.my.id/stream/0_h4cdmhi1.mpd?exp=1793215398&sign=323396272a29022a4bd0b5285ee854b1885bd3c8c1d697736cd622ae0a85144d
 
  
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids 
@@ -1492,6 +1487,19 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=76
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=72
 
+#EXTINF:-1 tvg-id="0_efpv3846" tvg-name="Discovery Channel" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_efpv3846/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_efpv3846&exp=1793215398&sign=03b1b135b531ec817499d042c3b10be1e9ec109c7c7de5bfb62b520afc26a32c
+https://maxstreamtv-token.ambontv.my.id/stream/0_efpv3846.mpd?exp=1793215398&sign=03b1b135b531ec817499d042c3b10be1e9ec109c7c7de5bfb62b520afc26a32c
+
+#EXTINF:-1 tvg-id="0_nhmzmt8u" tvg-name="Discovery Asia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nhmzmt8u/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_nhmzmt8u&exp=1793215398&sign=da18115af6b7a5f4e1ea6190a707694bc0988ed947c535f01657a19eb61a53c8
+https://maxstreamtv-token.ambontv.my.id/stream/0_nhmzmt8u.mpd?exp=1793215398&sign=da18115af6b7a5f4e1ea6190a707694bc0988ed947c535f01657a19eb61a53c8
 
 #EXTINF:-1 tvg-id="80" tvg-name="Lifetime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFeERq0ENoTWkX3BIkXIhln5qdbuw8Zxvb2IBMxW1fTv9AIfwN956H-Qoo&s=10" group-title="ENTERTAIMENT",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
