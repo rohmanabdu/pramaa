@@ -507,7 +507,7 @@ https://maxstreamtv-token.ambontv.my.id/stream/0_h4cdmhi1.mpd?exp=1793215398&sig
 
  
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids 
-#EXTINF:-1 tvg-id="0_ynh2anw4" tvg-name="MAXKids" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/banner_xxxhdpi.webp" group-title="MaxstreamTV",MAXKids
+#EXTINF:-1 tvg-id="0_ynh2anw4" tvg-name="MAXKids" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/banner_xxxhdpi.webp" group-title="KIDS",MAXKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1522,7 +1522,7 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=87
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ad6cc8b4c8b/379c1f236f734135b03dffc6f1fadcdf.jpg" group-title="ENTERTAIMENT",Fashion TV
-#EXTINF:-1 tvg-id="0_brgzui5c" tvg-name="Fashion TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_brgzui5c/banner_xxxhdpi.webp" group-title="MaxstreamTV",Fashion TV
+#EXTINF:-1 tvg-id="0_brgzui5c" tvg-name="Fashion TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_brgzui5c/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
