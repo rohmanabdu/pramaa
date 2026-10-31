@@ -9,9 +9,9 @@ https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 
 
 #EXTINF:-1 tvg-id="RCTI" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://stream.icanplay.my.id/play/rctiplus.m3u8
+https://rplus.inisemar.my.id/rcti.m3u8
 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI 2
@@ -30,9 +30,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://stream.icanplay.my.id/play/mnctvplus.m3u8
+https://rplus.inisemar.my.id/mnctv.m3u8
 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV 2
@@ -51,9 +51,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
 
 #EXTINF:-1 tvg-id="GTV" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://stream.icanplay.my.id/play/gtvplus.m3u8
+https://rplus.inisemar.my.id/gtv.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -71,9 +71,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b2c774f2a6fc4cd1917459335d8231df/index.mpd
 
 #EXTINF:-1 tvg-id="iNews" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://stream.icanplay.my.id/play/inewsplus.m3u8
+https://rplus.inisemar.my.id/inews.m3u8
 
 
 
@@ -595,7 +595,8 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
 ====donate====
-
+#EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="LIVE EVENT",Donasi +++
+https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 
 ====SPORT LUAR====
 
@@ -1449,10 +1450,11 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 
 
 #EXTINF:-1 tvg-id="0_wd3w16vp" tvg-name="Arirang" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_wd3w16vp/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Arirang
-#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/QXJpcmFuZw/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_wd3w16vp&exp=1793416284&sign=e02b716ab26c5af6b49f0fedda188fe9a2a5bfee3a258089f202fb8dd3ff9099
+https://maxstreamtv.memektv.my.id/stream/0_wd3w16vp.mpd?exp=1793416284&sign=e02b716ab26c5af6b49f0fedda188fe9a2a5bfee3a258089f202fb8dd3ff9099
 
 
 
@@ -1464,8 +1466,9 @@ https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_cms3x58k&exp=1793215398&sign=a83de78d84b474b95e7f8f6720c268c164bd97a34d22190899bc184ff8548d8e
-https://maxstreamtv-token.ambontv.my.id/stream/0_cms3x58k.mpd?exp=1793215398&sign=a83de78d84b474b95e7f8f6720c268c164bd97a34d22190899bc184ff8548d8e
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_cms3x58k&exp=1793416284&sign=811bd18f69fc7b5d681b6fad7aa42472dff99bfd1c6e1b069444608603e420ba
+https://maxstreamtv.memektv.my.id/stream/0_cms3x58k.mpd?exp=1793416284&sign=811bd18f69fc7b5d681b6fad7aa42472dff99bfd1c6e1b069444608603e420ba
+
 
 #EXTINF:-1 tvg-id="76" tvg-name="NHK World Premium" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png" group-title="ENTERTAIMENT
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1490,15 +1493,15 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_efpv3846&exp=1793215398&sign=03b1b135b531ec817499d042c3b10be1e9ec109c7c7de5bfb62b520afc26a32c
-https://maxstreamtv-token.ambontv.my.id/stream/0_efpv3846.mpd?exp=1793215398&sign=03b1b135b531ec817499d042c3b10be1e9ec109c7c7de5bfb62b520afc26a32c
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_efpv3846&exp=1793416284&sign=44c5b96007c6fc6c590e367efc0f414672ca4a523203422b5157bbb57935b2cc
+https://maxstreamtv.memektv.my.id/stream/0_efpv3846.mpd?exp=1793416284&sign=44c5b96007c6fc6c590e367efc0f414672ca4a523203422b5157bbb57935b2cc
 
 #EXTINF:-1 tvg-id="0_nhmzmt8u" tvg-name="Discovery Asia" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_nhmzmt8u/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_nhmzmt8u&exp=1793215398&sign=da18115af6b7a5f4e1ea6190a707694bc0988ed947c535f01657a19eb61a53c8
-https://maxstreamtv-token.ambontv.my.id/stream/0_nhmzmt8u.mpd?exp=1793215398&sign=da18115af6b7a5f4e1ea6190a707694bc0988ed947c535f01657a19eb61a53c8
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_nhmzmt8u&exp=1793416284&sign=4799cc8f32366749177bd0c874baa5c44555b021dd9cd9cb390b97e6c355935a
+https://maxstreamtv.memektv.my.id/stream/0_nhmzmt8u.mpd?exp=1793416284&sign=4799cc8f32366749177bd0c874baa5c44555b021dd9cd9cb390b97e6c355935a
 
 #EXTINF:-1 tvg-id="80" tvg-name="Lifetime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFeERq0ENoTWkX3BIkXIhln5qdbuw8Zxvb2IBMxW1fTv9AIfwN956H-Qoo&s=10" group-title="ENTERTAIMENT",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1521,18 +1524,12 @@ https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=87
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ad6cc8b4c8b/379c1f236f734135b03dffc6f1fadcdf.jpg" group-title="ENTERTAIMENT",Fashion TV
-#EXTINF:-1 tvg-id="0_brgzui5c" tvg-name="Fashion TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_brgzui5c/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_brgzui5c&exp=1793215398&sign=49097f63e1f908f8701cc8b0ab4188ad1dffb6a49eaf3986cf5ed74fbb8778bc
-https://maxstreamtv-token.ambontv.my.id/stream/0_brgzui5c.mpd?exp=1793215398&sign=49097f63e1f908f8701cc8b0ab4188ad1dffb6a49eaf3986cf5ed74fbb8778bc
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_brgzui5c&exp=1793416284&sign=7be08627d7437a560206e0d4b244d20af50cd7b3fb4c5efcbe080fcaee2254e6
+https://maxstreamtv.memektv.my.id/stream/0_brgzui5c.mpd?exp=1793416284&sign=7be08627d7437a560206e0d4b244d20af50cd7b3fb4c5efcbe080fcaee2254e6
 
-#EXTINF:-1 tvg-id="" tvg-name="Eat N Go" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856fd0d66d0170342015d30907/85688b31b56144359c33caca3244ecbd.png" group-title="ENTERTAIMENT",Eat N Go
-#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/RWF0IE4gR28/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Travel TV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ace4a654c8a/f872178169204b9c8c9255df14634757.jpg" group-title="ENTERTAIMENT",Travel TV
@@ -1644,44 +1641,51 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_57ujtr57&exp=1793215398&sign=0f8acf1668cd842b30db3ed6cec2bc5dd97435bd9376c64f530d4ad011d09ee5
-https://maxstreamtv-token.ambontv.my.id/stream/0_57ujtr57.mpd?exp=1793215398&sign=0f8acf1668cd842b30db3ed6cec2bc5dd97435bd9376c64f530d4ad011d09ee5
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_57ujtr57&exp=1793416284&sign=64c9a70d938eee43cf855f96ff4ec8952946562b10ead2f59fb1c32eb437435f
+https://maxstreamtv.memektv.my.id/stream/0_57ujtr57.mpd?exp=1793416284&sign=64c9a70d938eee43cf855f96ff4ec8952946562b10ead2f59fb1c32eb437435f
+
 #EXTINF:-1 tvg-id="0_ixad1kw8" tvg-name="MAXStream TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ixad1kw8/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXStream TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_ixad1kw8&exp=1793215398&sign=aad0efafb4280ed80aa09e75400e36f7743e68464223128c201e8fe1d8b300ae
-https://maxstreamtv-token.ambontv.my.id/stream/0_ixad1kw8.mpd?exp=1793215398&sign=aad0efafb4280ed80aa09e75400e36f7743e68464223128c201e8fe1d8b300ae
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_ixad1kw8&exp=1793416284&sign=8984b5bdf495d5552e865205aa7c0aff45b6558bef656228a7485b76e6864354
+https://maxstreamtv.memektv.my.id/stream/0_ixad1kw8.mpd?exp=1793416284&sign=8984b5bdf495d5552e865205aa7c0aff45b6558bef656228a7485b76e6864354
+
+
 #EXTINF:-1 tvg-id="0_psqdb637" tvg-name="MAXReels" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_psqdb637/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXReels
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_psqdb637&exp=1793215398&sign=66a7bd43c7e508cab2da7ab29ead56afa86fe50acaf4d4185b67e48f4b80917e
-https://maxstreamtv-token.ambontv.my.id/stream/0_psqdb637.mpd?exp=1793215398&sign=66a7bd43c7e508cab2da7ab29ead56afa86fe50acaf4d4185b67e48f4b80917e
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_psqdb637&exp=1793416284&sign=8ff839101155a9604d89c6dae5504a9f160b9c944faa233327a15702530fad25
+https://maxstreamtv.memektv.my.id/stream/0_psqdb637.mpd?exp=1793416284&sign=8ff839101155a9604d89c6dae5504a9f160b9c944faa233327a15702530fad25
+
 #EXTINF:-1 tvg-id="0_z7t4c568" tvg-name="MAXEats" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_z7t4c568/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXEats
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_z7t4c568&exp=1793215398&sign=5b0cf57eddaf4269e6f94287c9b93fc0623ba02f517975aa3ffe0b90a1c13666
-https://maxstreamtv-token.ambontv.my.id/stream/0_z7t4c568.mpd?exp=1793215398&sign=5b0cf57eddaf4269e6f94287c9b93fc0623ba02f517975aa3ffe0b90a1c13666
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_z7t4c568&exp=1793416284&sign=e33263372dde3031ef74ac97470ac53d2049c037fb842ada9edebe853f83a952
+https://maxstreamtv.memektv.my.id/stream/0_z7t4c568.mpd?exp=1793416284&sign=e33263372dde3031ef74ac97470ac53d2049c037fb842ada9edebe853f83a952
+
 #EXTINF:-1 tvg-id="0_1u20u1ok" tvg-name="MAXSports" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_1u20u1ok/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_1u20u1ok&exp=1793215398&sign=70305d8221b5bad08a85e5eb5cb662523da1171994b7cc29ea0d8add5d2b330c
-https://maxstreamtv-token.ambontv.my.id/stream/0_1u20u1ok.mpd?exp=1793215398&sign=70305d8221b5bad08a85e5eb5cb662523da1171994b7cc29ea0d8add5d2b330c
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_1u20u1ok&exp=1793416284&sign=9eae5c2770015b317412cc4e4af51b0483c87afa1085570333bfa151053b4ca8
+https://maxstreamtv.memektv.my.id/stream/0_1u20u1ok.mpd?exp=1793416284&sign=9eae5c2770015b317412cc4e4af51b0483c87afa1085570333bfa151053b4ca8
+
 #EXTINF:-1 tvg-id="0_ynh2anw4" tvg-name="MAXKids" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_ynh2anw4/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXKids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_ynh2anw4&exp=1793215398&sign=4bfa3aaad8613f32fcb9b3fefe90762df88ab0c7848fd65c84a7820cd6c5dfbb
-https://maxstreamtv-token.ambontv.my.id/stream/0_ynh2anw4.mpd?exp=1793215398&sign=4bfa3aaad8613f32fcb9b3fefe90762df88ab0c7848fd65c84a7820cd6c5dfbb
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_ynh2anw4&exp=1793416284&sign=66b8623bfdbd13e1c440a3b695901c719c27197eda11fdb5af5482db1aa8622e
+https://maxstreamtv.memektv.my.id/stream/0_ynh2anw4.mpd?exp=1793416284&sign=66b8623bfdbd13e1c440a3b695901c719c27197eda11fdb5af5482db1aa8622e
+
 #EXTINF:-1 tvg-id="0_720wy4x6" tvg-name="MAXStreak" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_720wy4x6/banner_xxxhdpi.webp" group-title="ENTERTAIMENT",MAXStreak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_720wy4x6&exp=1793215398&sign=890a32a657d8276aa2034079f41258b195d129de72b7faf43d5017984694f60a
-https://maxstreamtv-token.ambontv.my.id/stream/0_720wy4x6.mpd?exp=1793215398&sign=890a32a657d8276aa2034079f41258b195d129de72b7faf43d5017984694f60a
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_720wy4x6&exp=1793416284&sign=943e0ad53243b2fd3e1196d725a1d45d39896792ad1a8ba4c8c277cddd7f9a67
+https://maxstreamtv.memektv.my.id/stream/0_720wy4x6.mpd?exp=1793416284&sign=943e0ad53243b2fd3e1196d725a1d45d39896792ad1a8ba4c8c277cddd7f9a67
 
 
 =====MUSIK====
@@ -1849,8 +1853,8 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_s5oc8paq&exp=1793215398&sign=c442a237e0321f8e0fbabda43ac2f748ee4f72adf5167d5816bc1cb172f13b26
-https://maxstreamtv-token.ambontv.my.id/stream/0_s5oc8paq.mpd?exp=1793215398&sign=c442a237e0321f8e0fbabda43ac2f748ee4f72adf5167d5816bc1cb172f13b26
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_s5oc8paq&exp=1793416284&sign=c9ba827ec6ee382600ab10edb06bfa308cbc1da95c9d277a9647c70d09e9fb62
+https://maxstreamtv.memektv.my.id/stream/0_s5oc8paq.mpd?exp=1793416284&sign=c9ba827ec6ee382600ab10edb06bfa308cbc1da95c9d277a9647c70d09e9fb62
 
 
 
@@ -1858,15 +1862,15 @@ https://maxstreamtv-token.ambontv.my.id/stream/0_s5oc8paq.mpd?exp=1793215398&sig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.icanplay.my.id/drm/bioskopid
-https://stream.icanplay.my.id/play/bioskopid.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_urq0w0mp&exp=1793416284&sign=66c816ed276c3636c62d1fbb816428a93225c9aa554be3d794fa67bc807947a6
+https://maxstreamtv.memektv.my.id/stream/0_urq0w0mp.mpd?exp=1793416284&sign=66c816ed276c3636c62d1fbb816428a93225c9aa554be3d794fa67bc807947a6
 
 #EXTINF:-1 tvg-id="0_meap4fi2" tvg-name="Warner TV" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_meap4fi2/banner_xxxhdpi.webp" group-title="MOVIES",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_meap4fi2&exp=1793215398&sign=ad955bcb960692d4b0b21a66668f34802279d924d370174a2c43eb67adaf3421
-https://maxstreamtv-token.ambontv.my.id/stream/0_meap4fi2.mpd?exp=1793215398&sign=ad955bcb960692d4b0b21a66668f34802279d924d370174a2c43eb67adaf3421
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_meap4fi2&exp=1793416284&sign=fef5fba83f915a63291625ab3edd92a45d7bd5152af8047573202934dbf91108
+https://maxstreamtv.memektv.my.id/stream/0_meap4fi2.mpd?exp=1793416284&sign=fef5fba83f915a63291625ab3edd92a45d7bd5152af8047573202934dbf91108
 
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260708_224622.jpg" group-title="MOVIES" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", SONY PIX
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
@@ -1874,18 +1878,18 @@ http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rockaction.png",ROCK Action 
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=93&type=drm&token=KITKATTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_1gshn4os&exp=1793416284&sign=d74ed6c49c587aa7a5672ec3881c3dc903eb9082850c45650ac498abd9f53b38
+https://maxstreamtv.memektv.my.id/stream/0_1gshn4os.mpd?exp=1793416284&sign=d74ed6c49c587aa7a5672ec3881c3dc903eb9082850c45650ac498abd9f53b38
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_a98kaoda/banner_xxxhdpi.webp" group-title="MOVIES",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_a98kaoda&exp=1793215398&sign=0e0dfdc42c2d955f20c6a8f7341c9d5a21f52345d5760f8119efd8caf6255144
-https://maxstreamtv-token.ambontv.my.id/stream/0_a98kaoda.mpd?exp=1793215398&sign=0e0dfdc42c2d955f20c6a8f7341c9d5a21f52345d5760f8119efd8caf6255144
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_a98kaoda&exp=1793416284&sign=f73ab923598bc9665fe81260d1c628499049b0bab5a596a3ed456fefec71b6dd
+https://maxstreamtv.memektv.my.id/stream/0_a98kaoda.mpd?exp=1793416284&sign=f73ab923598bc9665fe81260d1c628499049b0bab5a596a3ed456fefec71b6dd
 
 
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7bgp-3NYBwNCd0IS8N7Whxt0EokHXdo43IOecT4xohw&s=10",HBO
@@ -1968,8 +1972,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_2ayrv6w3&exp=1793215398&sign=c53bc7e7248047f87b38165dc850a56e18051a5f92cacd04e54277e85f45caa2
-https://maxstreamtv-token.ambontv.my.id/stream/0_2ayrv6w3.mpd?exp=1793215398&sign=c53bc7e7248047f87b38165dc850a56e18051a5f92cacd04e54277e85f45caa2
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_2ayrv6w3&exp=1793416284&sign=3bb1ef1ce92393eb1647edb6fdfaf11944c25493b031ea96a7e57d9d335cd0a1
+https://maxstreamtv.memektv.my.id/stream/0_2ayrv6w3.mpd?exp=1793416284&sign=3bb1ef1ce92393eb1647edb6fdfaf11944c25493b031ea96a7e57d9d335cd0a1
+
 
 #EXTINF:-1 tvg-id="0_r16b30de" tvg-name="tvN" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_r16b30de/banner_xxxhdpi.webp" group-title="MOVIES",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -2040,8 +2045,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_jqlzd1wf&exp=1793215398&sign=c371fa27788f71e84ad6d8acb75ac384e6a8f037a800fbbec4207ae2bc13ad0e
-https://maxstreamtv-token.ambontv.my.id/stream/0_jqlzd1wf.mpd?exp=1793215398&sign=c371fa27788f71e84ad6d8acb75ac384e6a8f037a800fbbec4207ae2bc13ad0e
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_jqlzd1wf&exp=1793416284&sign=4e07edff8bfbc28a1db0025bd3c2108f58c5234cbad234e5dcbd2fcd609b8d3c
+https://maxstreamtv.memektv.my.id/stream/0_jqlzd1wf.mpd?exp=1793416284&sign=4e07edff8bfbc28a1db0025bd3c2108f58c5234cbad234e5dcbd2fcd609b8d3c
 
 #EXTINF:-1 tvg-id="CINEMAX" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -2071,8 +2076,8 @@ https://maxstreamtv-token.ambontv.my.id/stream/0_s7gzj2we.mpd?exp=1793215398&sig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_vq7m2eeg&exp=1793215398&sign=51946af1a52fd211b02c54325f9a227410fa8dedb5510cc783cbf01a6c42fdee
-https://maxstreamtv-token.ambontv.my.id/stream/0_vq7m2eeg.mpd?exp=1793215398&sign=51946af1a52fd211b02c54325f9a227410fa8dedb5510cc783cbf01a6c42fdee
+#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv.memektv.my.id/drm?id=0_vq7m2eeg&exp=1793416284&sign=0a2a36d4e69b5937f2bb28ccc36a9c0a4388ccadf74365d9c824bf17000df6ff
+https://maxstreamtv.memektv.my.id/stream/0_vq7m2eeg.mpd?exp=1793416284&sign=0a2a36d4e69b5937f2bb28ccc36a9c0a4388ccadf74365d9c824bf17000df6ff
 
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title="MOVIES",Celestial Classic Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
