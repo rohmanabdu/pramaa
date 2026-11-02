@@ -259,8 +259,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDOo5PgihsRI82WTYB5wbtlsegzPvHe2kvcOn-q2Bfw&s" group-title="INDONESIA",TVRI Sport
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?w=1280&h=720&fit=contain&cbg=ffffff&url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="Nasional",TVRI SPORT | TRV
+#EXTINF:-1 tvg-id="" tvg-name="TVRI sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDOo5PgihsRI82WTYB5wbtlsegzPvHe2kvcOn-q2Bfw&s" group-title="INDONESIA",TVRI Sport
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
