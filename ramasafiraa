@@ -246,10 +246,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDOo5PgihsRI82WTYB5wbtlsegzPvHe2kvcOn-q2Bfw&s" group-title="INDONESIA",TVRI Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#EXTHTTP:{"User-Agent":"(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)"}
-https://aktasari.pages.dev/ion26/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/VFZSSSBTcG9ydA/manifest.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://thumbor.prod.vidiocdn.com/HBAQU6IMcV4WjpksrE1sj5htPa4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="INDONESIA",GARUDA TV
@@ -368,11 +366,7 @@ https://stream.icanplay.my.id/play/antara.mpd
 https://maxstreamtv-token.ambontv.my.id/stream/0_6y33rxed.mpd?exp=1793215398&sign=fe49668408fce2186bd24d0c07af96134156173ad32b7ede52acb92f32366b57
 
 #EXTINF:-1 tvg-id="0_3wiy77wh" tvg-name="Dunia Anak" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_3wiy77wh/banner_xxxhdpi.webp" group-title="KIDS",Dunia Anak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstreamtv-token.ambontv.my.id/drm?id=0_3wiy77wh&exp=1793215398&sign=37e367fc0490d2eeccfeb707ebba81a8553c53161b7d8e9a86a13d7f864ad03f
-https://maxstreamtv-token.ambontv.my.id/stream/0_3wiy77wh.mpd?exp=1793215398&sign=37e367fc0490d2eeccfeb707ebba81a8553c53161b7d8e9a86a13d7f864ad03f
+http://202.150.165.66:8088/play/202-DuniaAnak/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0_enfa8a2h" tvg-name="Da Vinci Learning" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_enfa8a2h/banner_xxxhdpi.webp" group-title="KIDS",Da Vinci Learning
@@ -468,10 +462,7 @@ https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q
 https://maxstreamtv-token.ambontv.my.id/stream/0_1lrqq4s0.mpd?exp=1793215398&sign=20cd8f62ed203dec6b534ab1d24368c8b3d2dd964d20e404b833c4ecdd8db555
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon TV Premium" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b8d2390016b9c47b6f01de1/f6fae792d2f44cb4be2204c7fd1fd527.jpg" group-title="KIDS",Cartoon TV Premium
-#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
+http://202.150.165.66:8088/play/209-CartoonTVPremium/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon TV Classic" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184560100c34363/5550dd0409a04f948407c307a9468240.jpg" group-title="KIDS",Cartoon TV Classic
 #EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
@@ -480,10 +471,7 @@ https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q
 https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon TV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d144f21811dc9/fb19799254344b97a83bca4253360ede.jpg" group-title="KIDS",Cartoon TV
-#EXTVLCOPT:http-user-agent=(function(_0x268463,_0x4ce089){function _0x5835c9(_0x1c78aa,_0x37165e,_0x297530,_0xe6df6){return _0x3ae3(_0x37165e-0x1b2,_0x1c78aa)
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/Q2FydG9vbiBUVg/manifest.mpd
+http://202.150.165.66:8088/play/207-CartoonTV/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -518,11 +506,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moonbug%20kids.png",Moonbug 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=57&type=drm&token=KITKATTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nickjr.png",Nick Jr. 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1421,6 +1405,7 @@ http://45.224.96.220:18000/play/a07y/index.m3u8
 
 
 
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
@@ -1433,6 +1418,13 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=87&type=drm&token=KITKATTV
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
+#EXTINF:-1 tvg-id="204" tvg-name="Drama World" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-l.png" group-title="ENTERTAIMENT",Drama World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=204
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE & LIFESTYLE" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png",Entertainment 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1587,11 +1579,6 @@ https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/S
 #EXTVLCOPT:http-origin=https://www.dens.tv
 https://op-flashcon-digdayahd-1.dens.tv/h/h202/index.m3u8?app_type=web&userid=lite&chname=Crema_TV
 
-#EXTINF:-1 tvg-id="143" tvg-name="Qwest TV" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1763699104_tvchannels_v1.jpg" group-title="ENTERTAIMENT",Qwest TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-origin=https://www.dens.tv
-https://op-flashcon-digdayahd-1.dens.tv/h/h306/stream.m3u8?app_type=web&userid=lite&chname=Qwest_TV
 
 #EXTINF:-1 tvg-id="128" tvg-name="Stingray Classica" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701423611_tvchannels_v1.jpg" group-title="ENTERTAIMENT",Stingray Classica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -1688,6 +1675,20 @@ https://maxstreamtv.memektv.my.id/stream/0_720wy4x6.mpd?exp=1793416284&sign=943e
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd
+
+#EXTINF:-1 tvg-id="DanceTelevision.nl@SD" group-title="MUSIC" tvg-logo="https://pic.dens.tv/tv_183x174/1701423510_square.jpg",Dance TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h308/stream.m3u8
+#EXTINF:-1 tvg-id="Prambors.id@SD" group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_prambors.png",Prambors
+
+#EXTINF:-1 tvg-id="QwestTV.fr@SD" group-title="MUSIC" tvg-logo="https://pic.dens.tv/tv_183x174/1763699064_square.jpg",Qwest TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h306/stream.m3u8?app_type=web&userid=lite&chname=Qwest_TV
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" group-title="MUSIC" tvg-logo="https://pic.dens.tv/tv_183x174/1701423589_square.jpg",Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h304/stream.m3u8?app_type=web&userid=lite&chname=Stingray_Classica
+
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="MUSIC",MUSICA
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
